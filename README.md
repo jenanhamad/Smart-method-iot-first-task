@@ -1,8 +1,9 @@
 Welcome to the Smart-method-iot-first-task 
 
-## control panel
-
-واجهة تحكم بستة محركات روبوت مطورة باستخدام **php , mysql , javascript, html , css**
+## control panel web pag
+واجهة تحكم بستة محركات روبوت 
+## Languages
+*php , mysql , javascript, html , css*
 ##  (controlPanel.php) :
 الملف الاساسي  يحتوي على الواجهة 
 ##  (last_record.php)
